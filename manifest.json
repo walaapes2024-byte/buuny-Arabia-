@@ -1,0 +1,7 @@
+{
+  "name": "Arabic Discord",
+  "description": "تعريب كامل وقوائم مريحة لتطبيق بوني",
+  "author": "Developer",
+  "main": "index.js",
+  "tags": ["utility", "language"]
+}
